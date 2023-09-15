@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/TRv4gBg/Rectangle-1.png",
+      "course_name": "Introduction to C Programming",
+      "credit": 1,
+      "course_price": 15000,
+      "course_details": "Learn the fundamentals of C programming."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/KmCW2qM/Rectangle-2.png",
+      "course_name": "Introduction to Algorithms",
+      "credit": 2,
+      "course_price": 25000,
+      "course_details": "Start your journey into world of coding with algorithm."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/r6Ct6d1/Rectangle-3.png",
+      "course_name": "Introduction to C++ for DSA",
+      "credit": 10,
+      "course_price": 10000,
+      "course_details": "Understand and implement essential data structures & algorithm using C++."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/zPrffdC/Rectangle-4.png",
+      "course_name": "Basic Data Structures",
+      "credit": 5,
+      "course_price": 35000,
+      "course_details": "Dive into the world of data and their structures to improve your coding skills."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/ZYfQ15B/Rectangle-5.png",
+      "course_name": "Introduction to OOP Python",
+      "credit": 5,
+      "course_price": 19000,
+      "course_details": "Master Python with OOP concepts."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/gD0DSzt/Rectangle-6.png",
+      "course_name": "Software Engineering",
+      "credit": 2,
+      "course_price": 23000,
+      "course_details": "Explore the basics of overall software engineering to make yourself a better software engineer."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/52vvjtn/Rectangle-7.png",
+      "course_name": "AWS, Cloud Computing",
+      "credit": 4,
+      "course_price": 35000,
+      "course_details": "Know AWS cloud computing and how it operates."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/xst3rsJ/Rectangle-8.png",
+      "course_name": "Database (MySQL)",
+      "credit": 5,
+      "course_price": 19000,
+      "course_details": "Discover the concepts and applications of database through MySQL."
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/YZprNPz/Rectangle-9.png",
+      "course_name": "Problem-Solving Part-1",
+      "credit": 2,
+      "course_price": 23000,
+      "course_details": "Learn about best practices for developing the mindset of a problem solver."
+    }
+  ]
+  
