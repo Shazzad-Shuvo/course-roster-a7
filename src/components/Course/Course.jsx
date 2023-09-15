@@ -1,7 +1,7 @@
 import { FaDollarSign } from 'react-icons/fa';
 import { BsBook } from 'react-icons/bs';
 
-const Course = ({ course }) => {
+const Course = ({ course, handleSelect }) => {
     const {image, course_name, credit, course_price, course_details} = course;
     return (
         <div>
@@ -15,7 +15,7 @@ const Course = ({ course }) => {
                         <p className='flex items-center gap-2'> <BsBook></BsBook> <span> Credit: {credit} hr</span> </p>
                     </div>
                     <div className="card-actions justify-center">
-                        <button className="btn btn-primary">Select</button>
+                        <button onClick={() => handleSelect(course)} className="btn btn-primary">Select</button>
                     </div>
                 </div>
             </div>
