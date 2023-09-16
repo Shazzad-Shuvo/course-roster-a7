@@ -11,8 +11,8 @@ const Course = ({ course, handleSelect }) => {
                     <h2 className="card-title">{course_name}</h2>
                     <p>{course_details}</p>
                     <div className='flex'>
-                        <p className='flex items-center'><FaDollarSign></FaDollarSign> <span>Price: {course_price}</span></p>
-                        <p className='flex items-center gap-2'> <BsBook></BsBook> <span> Credit: {credit} hr</span> </p>
+                        <p className='flex items-center text-sm'><FaDollarSign></FaDollarSign> <span>Price: {course_price}</span></p>
+                        <p className='flex items-center gap-2 text-sm'> <BsBook></BsBook> <span> Credit: {credit} hr</span> </p>
                     </div>
                     <div className="card-actions justify-center">
                         <button onClick={() => handleSelect(course)} className="btn btn-primary">Select</button>
